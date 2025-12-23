@@ -83,6 +83,6 @@ HAVING COUNT(b.bookings_id) > 2;
 select * from vehicles;
 select * from bookings;
 
-drop tsble bookings;
-drop tsble vehicles;
-drop tsble users;
+drop table bookings;
+drop table vehicles;
+drop table users;
