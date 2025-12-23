@@ -169,7 +169,6 @@ assaignment-3/
 | **ERD Diagram**       | [ERD Link][erd]       |
 | **Viva Video**        | [Viva Video][viva]    |
 
-[github]: https://github.com/mdrasel97/b6a3-Vehicle-Rental-System
-[erd]: https://lucid.app/lucidchart/961ec564-6ab1-47ce-a352-8b21105310f2/edit?viewport_loc=-271%2C-881%2C5024%2C2068%2C0_0&invitationId=inv_0cd22a11-65bd-44f8-a40f-30e8f13366b1
-
-[viva]:
+[github]: https://github.com/tasinvoid/level2-A3
+[erd]: https://drawsql.app/teams/vexio-web-creations/diagrams/vehicle-rental-system
+[video]: https://drive.google.com/file/d/1QLbH9iY5E-0z-FtoCJHxNCVP4ULpx0wW/view?usp=sharing
