@@ -167,8 +167,8 @@ assaignment-3/
 | --------------------- | --------------------- |
 | **GitHub Repository** | [GitHub Repo][github] |
 | **ERD Diagram**       | [ERD Link][erd]       |
-| **Viva Video**        | [Viva Video][vivdeo]    |
+| **Viva Video**        | [Viva Video][viva]    |
 
 [github]: https://github.com/tasinvoid/level2-A3
 [erd]: https://drawsql.app/teams/vexio-web-creations/diagrams/vehicle-rental-system
-[video]: https://drive.google.com/file/d/1QLbH9iY5E-0z-FtoCJHxNCVP4ULpx0wW/view?usp=sharing
+[viva]: https://drive.google.com/file/d/1QLbH9iY5E-0z-FtoCJHxNCVP4ULpx0wW/view?usp=sharing
